@@ -1,0 +1,35 @@
+body {
+    background-image : url("images/sample001.jpg");
+      background-repeat:no-repeat;
+}
+
+#container {
+    width: 800px;
+    margin: auto;
+    background-color: white;
+      background-image : url("images/sample002.jpg");
+      background-repeat:no-repeat;
+}
+
+header {
+    padding: 40px;
+    height: 80px;
+}
+
+nav {
+    padding: 8px 40px;
+    background-color:  silver;
+    color: #white;
+}
+
+article {
+    padding: 40px;
+    min-height : 400px;
+}
+
+footer {
+    padding: 40px;
+    height: 40px;
+    background-color : black;
+    color: white;
+}
